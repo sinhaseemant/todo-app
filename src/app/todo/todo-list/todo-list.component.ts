@@ -9,6 +9,7 @@ export class TodoListComponent implements OnInit{
 
   notes = ['My First Note', 'My Second Note', 'My Third Note', 'My Fourth Note'];
 
+
   constructor() { }
 
   ngOnInit(): void {
